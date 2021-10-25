@@ -1,0 +1,1 @@
+mostrar o conteúdo dos arquivos "resumo.txt" em cada uma das pastas criadas

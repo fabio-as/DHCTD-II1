@@ -1,0 +1,1 @@
+servidores físicos são caros e demandam equipe especializadas, hoje os virtuals servers são escaláveis
